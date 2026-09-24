@@ -1,0 +1,31 @@
+---
+title: ""
+page-layout: full
+---
+
+:::: {.secondary-grid}
+
+::: {.profile-block .compact-profile}
+<div class="portrait-placeholder"><img src="images/portrait-enzo-pons.jpg" alt="Portrait d’Enzo Pons"></div>
+<div class="profile-info">
+<a href="mailto:enzo.pons@ens-paris-saclay.fr">enzo.pons@ens-paris-saclay.fr</a>
+<a href="https://www.linkedin.com/in/enzo-pons-a56347261/">LinkedIn</a>
+<span>Paris, France</span>
+</div>
+:::
+
+::: {.page-main}
+# Notes de blog
+
+<div class="lead">Des notes courtes sur des articles, des méthodes, des données ou des questions rencontrées au cours de mes travaux.</div>
+
+<div class="post-list">
+<div class="post-date">À venir</div>
+
+### Premières notes
+
+Les billets seront publiés ici.
+</div>
+:::
+
+::::

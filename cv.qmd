@@ -1,0 +1,73 @@
+---
+title: ""
+page-layout: full
+---
+
+:::: {.secondary-grid}
+
+::: {.profile-block .compact-profile}
+<div class="portrait-placeholder"><img src="images/portrait-enzo-pons.jpg" alt="Portrait d’Enzo Pons"></div>
+<div class="profile-info">
+<a href="mailto:enzo.pons@ens-paris-saclay.fr">enzo.pons@ens-paris-saclay.fr</a>
+<a href="https://www.linkedin.com/in/enzo-pons-a56347261/">LinkedIn</a>
+<span>Paris, France</span>
+</div>
+:::
+
+::: {.page-main}
+# Curriculum vitæ
+
+<div class="cv-download"><a href="files/cv-enzo-pons.pdf">Télécharger le CV au format PDF</a></div>
+
+## Parcours scolaire
+
+<div class="cv-row"><div class="cv-year">2022–2027</div><div><strong>École normale supérieure Paris-Saclay</strong><br><span>Élève normalien fonctionnaire stagiaire.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">2026–2027</div><div><strong>Université Paris Dauphine–PSL</strong><br><span>Master 2 Quantitative Economic Analysis, parcours Macroéconomie. Mineure Action publique – PSL.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">2025–2026</div><div><strong>Césure professionnelle</strong></div></div>
+
+<div class="cv-row"><div class="cv-year">2024–2025</div><div><strong>Université Paris 1 Panthéon-Sorbonne</strong><br><span>Master 2 Science politique, parcours Enquêtes, études, expertise.</span><br><strong>Université Paris Cité</strong><br><span>Master 1 Mathématiques fondamentales et appliquées, spécialisation en statistiques, suivi en parallèle.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">2023–2024</div><div><strong>École normale supérieure Paris-Saclay</strong><br><span>Master 1 Économie, Organisations et Société.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">2022–2023</div><div><strong>École normale supérieure Paris-Saclay</strong><br><span>Double licence Mathématiques et Informatique.</span><br><strong>Université Paris-Saclay</strong><br><span>Licence de Physique fondamentale, suivie en parallèle.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">2021–2022</div><div><strong>Lycée Louis-le-Grand</strong><br><span>Classe préparatoire MP* : mathématiques, physique et informatique.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">2019–2021</div><div><strong>Lycée François-Arago, Perpignan</strong><br><span>Classe préparatoire MPSI-MP : mathématiques, physique et informatique.</span></div></div>
+
+## Stages et projets académiques
+
+<div class="cv-row"><div class="cv-year">2026 · 6 mois</div><div><strong>Inspection générale des finances</strong><br><span>Stage d’appui aux missions d’audit, d’évaluation des politiques publiques et de conseil conduites par les inspecteurs et inspectrices des finances.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">2025–2026 · 5 mois</div><div><strong>Direction générale du Trésor</strong><br><span>Stagiaire économiste au bureau Polsoc4 : analyses économétriques et statistiques sur le temps partiel ; participation aux réponses aux commandes de court terme.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">2025 · 2 mois</div><div><strong>Université de Barcelone</strong><br><span>Stage de recherche sur les biais idéologiques de l’algorithme YouTube en France et en Espagne, par web scraping et analyse statistique ; collaboration avec Camilo Cristancho.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">2024–2025</div><div><strong>Mémoire de master 2 · Université Paris 1</strong><br><span>Recherche en science politique sur l’indépendance de deux services statistiques ministériels, la Dares et la Drees ; direction : Brigitte Gaïti.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">2024 · 3 mois</div><div><strong>Direction de l’animation de la recherche, des études et des statistiques</strong><br><span>Stage de chargé d’études statistiques sur les services à la personne, au sein du département SYPEF.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">2023–2024</div><div><strong>Mémoire de master 1 · ENS Paris-Saclay</strong><br><span>Analyse du contenu politique des textes de rap français, 1980–2023, par méthodes statistiques et machine learning ; direction : Baptiste Coulmont ; note : 17/20.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">2023 · 2 mois</div><div><strong>International Centre for Theory of Quantum Technologies, Gdansk</strong><br><span>Stage de recherche sur la traduction de l’article de Lucien Hardy « Sur les théories de composition en physique » dans le langage des algèbres d’opérades ; direction : John H. Selby.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">2019, 2023</div><div><strong>Travail de recherche</strong><br><span>Recherche sur l’intégrale de Henstock–Kurzweil et ses généralisations ; 3e accessit du prix Fermat junior ; publication dans <em>Quadrature</em> en 2024.</span></div></div>
+
+## Compétences techniques
+
+<div class="cv-row"><div class="cv-year">Programmation</div><div><strong>R, Python</strong><br><span>Maîtrise avancée. Familiarité : SQL, C, Lisp, OCaml, MATLAB.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">Logiciels</div><div><span>LaTeX, Git, Linux.</span></div></div>
+
+<div class="cv-row"><div class="cv-year">Langues</div><div><span>Français ; anglais C1, appuyé par la note de 7 à l’IELTS.</span></div></div>
+
+## Engagements et intérêts personnels
+
+<div class="cv-row"><div class="cv-year">2022–2024</div><div><strong>Vie associative — ENS Paris-Saclay</strong><br><span>Membre du bureau de l’association Les Sorcières de Saclay ; secrétaire du Bureau des élèves ; président de l’association cinéma et membre de la Commission de la vie étudiante (CVE).</span></div></div>
+
+<div class="cv-row"><div class="cv-year">Cinéma</div><div><span>Cinéma contemporain, notamment Ryusuke Hamaguchi, Paul Thomas Anderson et Kelly Reichardt.</span></div></div>
+:::
+
+::::
