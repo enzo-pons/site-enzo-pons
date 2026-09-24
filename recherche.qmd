@@ -17,7 +17,7 @@ page-layout: full
 ::: {.page-main}
 # Recherche
 
-<div class="kicker">Économie du travail · politiques publiques · sociologie quantitative</div>
+<div class="kicker">Économie et sociologie du travail · politiques publiques · méthodes quantitative</div>
 
 <div class="lead">
 Mes recherches se situent au croisement de l’économie du travail, de l’analyse des politiques publiques et de la sociologie quantitative.
@@ -25,21 +25,6 @@ Mes recherches se situent au croisement de l’économie du travail, de l’anal
 
 ## Travaux en cours
 
-### Bonus-malus d’assurance chômage et séparations d’emploi
-
-Projet sur le design de l’*experience rating* en France, ses effets sur les créations et destructions d’emplois et ses implications en équilibre.
-
-<div class="meta">Mémoire de M2 QEA · Dauphine–PSL · 2026–2027</div>
-
-### Expertise administrative et politique publique
-
-Travail de sociologie sur les tensions entre production d’expertise, hiérarchie administrative et commande politique.
-
-<div class="meta">Mémoire de M2 · Université Paris 1 Panthéon-Sorbonne · 2024–2026</div>
-
-## Champs d’intérêt
-
-Économie du travail · politiques de l’emploi · sociologie de l’État · méthodes quantitatives et computationnelles.
 :::
 
 ::::

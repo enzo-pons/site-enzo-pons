@@ -17,13 +17,13 @@ page-layout: full
 ::: {.page-main}
 # Enseignements
 
-<div class="lead">Je n’ai pas, à ce stade, eu de charge d’enseignement régulière. Cette page rassemble des supports que j’ai rédigés ou retravaillés au cours de ma scolarité, notamment à partir d’enseignements suivis ou d’interventions ponctuelles.</div>
+<div class="lead">Cette page rassemble des supports (cours, exercices ou notes) que j’ai rédigés, à partir d’enseignements suivis ou donnés.</div>
 
-## Mathématiques — niveau MP
+## Mathématiques
 
 ### Suites et valeurs d’adhérence
 
-Problème autour des valeurs d’adhérence d’une suite : premières propriétés, connexité, sous-groupes additifs de $\mathbb{R}$ et extraction de sous-suites monotones.
+Problème autour des valeurs d’adhérence d’une suite.
 
 <div class="resource-meta">Problème · niveau MP</div>
 

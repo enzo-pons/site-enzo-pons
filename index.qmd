@@ -23,32 +23,14 @@ page-layout: full
 Je travaille à l’intersection de l’économie du travail, de la sociologie de l’action publique et des méthodes quantitatives.
 </div>
 
-Je suis actuellement étudiant en **M2 Quantitative Economics and Analysis à l’Université Paris Dauphine–PSL**.
+Je suis actuellement élève fonctionnaire stagiaire à l'ENS Paris-Saclay et étudiant en M2 Quantitative Economics and Analysis à l’Université Paris Dauphine–PSL.
 :::
 
 ::: {.news-column}
 <div class="section-rule"></div>
 <h2>Actualités</h2>
 
-<div class="news-item">
-<div class="news-date">Sept. 2026</div>
-<div>Projet de mémoire sur le bonus-malus d’assurance chômage et les séparations d’emploi.</div>
-</div>
 
-<div class="news-item">
-<div class="news-date">Sept. 2026</div>
-<div>M2 Quantitative Economics and Analysis, parcours Macro &amp; Finance.</div>
-</div>
-
-<div class="news-item">
-<div class="news-date">Sept. 2026</div>
-<div>Mémoire sur expertise administrative et politique publique.</div>
-</div>
-
-<div class="news-item">
-<div class="news-date">Été 2026</div>
-<div>Mission à l’Inspection générale des finances.</div>
-</div>
 :::
 
 ::::

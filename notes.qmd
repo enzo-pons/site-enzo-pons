@@ -17,7 +17,7 @@ page-layout: full
 ::: {.page-main}
 # Notes de blog
 
-<div class="lead">Des notes courtes sur des articles, des méthodes, des données ou des questions rencontrées au cours de mes travaux.</div>
+<div class="lead">Des courtes notes sur divers sujets.</div>
 
 <div class="post-list">
 <div class="post-date">À venir</div>
